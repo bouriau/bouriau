@@ -3,6 +3,8 @@
 
 ![GitHub stats](https://github-readme-stats-eta-cyan-96.vercel.app/api?username=bouriau&custom_title=bouriau&show=reviews,prs_merged,prs_merged_percentage&show_icons=true)
 
+![Top Langs](https://github-readme-stats-eta-cyan-96.vercel.app/api/top-langs/?username=bouriau&layout=donut)
+
 <!--
 **bouriau/bouriau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
